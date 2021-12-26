@@ -8,7 +8,6 @@ db.once('open', () => {
 
 const connectDB = async () => {
   const { DB_HOST } = process.env;
-  console.log(DB_HOST);
   try {
     await Mongoose.connect(DB_HOST, {
       useNewUrlParser: true,
