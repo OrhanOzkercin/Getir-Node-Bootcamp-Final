@@ -28,7 +28,7 @@ npm run test
 
 | Request Type | END POINT |
 | :---| :--- |
-| POST | / |
+| POST | https://fierce-tor-06643.herokuapp.com/ |
 
 | Parameter | Type     | FORMAT                |
 | :-------- | :------- | :------------------------- |
